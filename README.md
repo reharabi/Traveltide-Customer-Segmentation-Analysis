@@ -15,7 +15,7 @@ The goal is to maximize customer sign-up by emphasizing the specific reward perk
 - **Number of Segments:** Six mutually exclusive groups  
 
 ### Key Insights
-- **Data Filtration:** Dataset filtered to 5,998 active users (≥ 8 sessions, activity after Jan 4, 2023).  
+- **Data Filtration:** Dataset filtered to 5,998 active users (≥ 7 sessions, activity after Jan 4, 2023).  
 - **User Engagement:** Bookers had a median of **22 page clicks**, vs. **8 clicks** for non-bookers → engagement strongly predicts conversion.  
 - **Family Market:** 32.6% of users travel with children; they show high transaction values → premium segment.  
 - **Model Failure:** K-Means clustering (even with PCA) failed to produce clear segments → business-logic-driven hierarchical model adopted.  
