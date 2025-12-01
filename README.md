@@ -1,7 +1,7 @@
 # TravelTide Rewards Program: Customer Segmentation for Personalized Marketing
 
 ## Project Description
-This project was completed as a **Mastery Project for MasterSchool**.
+This project was completed as a **Mastery Project for MasterSchool's Data Science Course**.
 
 It addresses a realistic marketing challenge: supporting the launch of a new customer rewards program for a simulated e-commerce client, **TravelTide**.  
 The primary objective was to define distinct customer segments based on booking behavior, demographics, and spend profile, in order to create a **highly personalized rewards program**.  
