@@ -24,7 +24,7 @@ The goal is to maximize customer sign-up by emphasizing the specific reward perk
 ---
 
 ## Deliverables
-- [Executive Summary](https://github.com/reharabi/Traveltide-Customer-Segmentation-Analysis/blob/main/Traveltide%20Executive%20Summary%20(1).pdf/executive_summary.md)
+- [Executive Summary](https://github.com/reharabi/Traveltide-Customer-Segmentation-Analysis/blob/main/Traveltide%20Executive%20Summary%20(1).pdf)
 - [Detailed Report](https://github.com/your-username/your-repo/blob/main/reports/detailed_segmentation_report.md)
 
 ### Notebooks
@@ -35,7 +35,7 @@ The goal is to maximize customer sign-up by emphasizing the specific reward perk
 ---
 
 ## Installation and Dependencies
-This project was executed in a standard Python data science environment (e.g., Jupyter, VS Code).
+This project was executed in a standard Python data science environment (e.g., Jupyter, Databricks).
 
 ### Dependencies
 | Library       | Purpose                                                                 |
