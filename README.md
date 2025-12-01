@@ -25,7 +25,7 @@ The goal is to maximize customer sign-up by emphasizing the specific reward perk
 
 ## Deliverables
 - [Executive Summary](https://github.com/reharabi/Traveltide-Customer-Segmentation-Analysis/blob/main/Traveltide%20Executive%20Summary%20(1).pdf)
-- [Detailed Report](https://https://github.com/reharabi/Traveltide-Customer-Segmentation-Analysis/blob/main/Traveltide%20detailed%20report.pdf)
+- [Detailed Report](https://github.com/reharabi/Traveltide-Customer-Segmentation-Analysis/blob/main/Traveltide%20detailed%20report.pdf)
 
 ### Notebooks
 - [Data Prep & EDA](https://github.com/reharabi/Traveltide-Customer-Segmentation-Analysis/blob/main/folder/(combined)%20traveltide-segmentation-analysis%20(3).ipynb)
