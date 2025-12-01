@@ -24,13 +24,13 @@ The goal is to maximize customer sign-up by emphasizing the specific reward perk
 ---
 
 ## Deliverables
-- **Executive Summary:** [executive_summary.md](reports/executive_summary.md)  
-- **Detailed Report:** [detailed_segmentation_report.md](reports/detailed_segmentation_report.md)  
+- [Executive Summary](https://github.com/reharabi//blob/main/reports/executive_summary.md)
+- [Detailed Report](https://github.com/your-username/your-repo/blob/main/reports/detailed_segmentation_report.md)
 
 ### Notebooks
-- **Data Prep & EDA:** [traveltide-segmentation-analysis (3).ipynb](notebooks/traveltide-segmentation-analysis%20(3).ipynb)  
-- **ML Approach (Discarded):** [ML Approach.ipynb](notebooks/ML%20Approach.ipynb)  
-- **Final Segmentation Logic:** [Customer Segmentation Final (1).ipynb](notebooks/Customer%20Segmentation%20Final%20(1).ipynb)  
+- [Data Prep & EDA](https://github.com/your-username/your-repo/blob/main/notebooks/traveltide-segmentation-analysis%20(3).ipynb)
+- [ML Approach (Discarded)](https://github.com/your-username/your-repo/blob/main/notebooks/ML%20Approach.ipynb)
+- [Final Segmentation Logic](https://github.com/your-username/your-repo/blob/main/notebooks/Customer%20Segmentation%20Final%20(1).ipynb)
 
 ---
 
